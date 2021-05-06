@@ -1,0 +1,19 @@
+body,
+html {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+body {
+	/* background-color: #7868e6; */
+	background-color: #fff;
+}
+.dashboard-button {
+	background: linear-gradient(
+		0deg,
+		rgba(246, 81, 102, 1) 0%,
+		rgba(253, 117, 111, 1) 61%
+	);
+}
